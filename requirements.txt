@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+Jinja2
+beautifulsoup4
+cachetools
